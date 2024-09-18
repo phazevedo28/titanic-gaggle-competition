@@ -1,1 +1,1 @@
-# titanic-gaggle-competition
+# titanic-kaggle-competition
